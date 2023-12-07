@@ -1,0 +1,15 @@
+/Users/stassuverin/Desktop/Programm/bin/Debug/net7.0/Programm
+/Users/stassuverin/Desktop/Programm/bin/Debug/net7.0/Programm.deps.json
+/Users/stassuverin/Desktop/Programm/bin/Debug/net7.0/Programm.runtimeconfig.json
+/Users/stassuverin/Desktop/Programm/bin/Debug/net7.0/Programm.dll
+/Users/stassuverin/Desktop/Programm/bin/Debug/net7.0/Programm.pdb
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.csproj.AssemblyReference.cache
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.AssemblyInfoInputs.cache
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.AssemblyInfo.cs
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.csproj.CoreCompileInputs.cache
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.dll
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/refint/Programm.dll
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.pdb
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/Programm.genruntimeconfig.cache
+/Users/stassuverin/Desktop/Programm/obj/Debug/net7.0/ref/Programm.dll

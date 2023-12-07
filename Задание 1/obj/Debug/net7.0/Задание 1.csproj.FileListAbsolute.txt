@@ -1,0 +1,15 @@
+/Users/stassuverin/Desktop/Programm/Задание 1/bin/Debug/net7.0/Задание 1
+/Users/stassuverin/Desktop/Programm/Задание 1/bin/Debug/net7.0/Задание 1.deps.json
+/Users/stassuverin/Desktop/Programm/Задание 1/bin/Debug/net7.0/Задание 1.runtimeconfig.json
+/Users/stassuverin/Desktop/Programm/Задание 1/bin/Debug/net7.0/Задание 1.dll
+/Users/stassuverin/Desktop/Programm/Задание 1/bin/Debug/net7.0/Задание 1.pdb
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.csproj.AssemblyReference.cache
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.AssemblyInfoInputs.cache
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.AssemblyInfo.cs
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.csproj.CoreCompileInputs.cache
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.dll
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/refint/Задание 1.dll
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.pdb
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/Задание 1.genruntimeconfig.cache
+/Users/stassuverin/Desktop/Programm/Задание 1/obj/Debug/net7.0/ref/Задание 1.dll
